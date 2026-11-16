@@ -6,9 +6,9 @@ headset handoff, Aftershape, Tic-tac-toe and Rock Paper Scissors. Native play is
 
 ## Play on Quest
 
-Competition invite: **pending channel creation**. Use the verified invite when supplied.
-Maintainer: 0.5.6/code17 is active in ALPHA. In the [Meta dashboard](https://developers.meta.com/vr/manage/applications/1403603619509022/release-channels/),
-create Competition, copy that build, enable access by URL, then replace this note with the tested invite.
+[Join the Competition channel](https://www.meta.com/s/4ykAGmxTN) for **0.5.6 / code 17**.
+Verified November 16, 2026: the invite opens Hand Duel's COMPETITION join page;
+Meta confirms the current build is attached. Sign in and review Meta's join terms.
 Alternatively, enable developer mode/USB debugging and install the included publisher-signed APK:
 
 ```sh
@@ -48,6 +48,6 @@ python3 -m http.server 8080 --directory web
 
 Serve `web/` over HTTPS using your hosting setup. Its final demo has burned-in
 English captions. Do not serve the repository root or add accounts/databases.
-Update the page's Quest link only with the verified current Competition invite.
+The page includes the verified current Competition invite.
 The demo still needs YouTube/Vimeo hosting for the submission's required video URL.
 Keep this repository private unless the owner explicitly changes visibility.
