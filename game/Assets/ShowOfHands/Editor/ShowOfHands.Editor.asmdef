@@ -1,0 +1,16 @@
+{
+  "name": "ShowOfHands.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "references": [
+    "ShowOfHands.Runtime",
+    "Oculus.VR",
+    "Unity.XR.Management",
+    "Unity.XR.Management.Editor",
+    "Unity.XR.OpenXR",
+    "Unity.XR.OpenXR.Editor",
+    "Unity.XR.OpenXR.Features.MetaQuestSupport",
+    "Oculus.VR.Editor"
+  ]
+}

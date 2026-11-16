@@ -1,0 +1,2941 @@
+{
+  "v": 1,
+  "words": [
+    {
+      "id": "wave",
+      "text": "wave",
+      "alt": [
+        "waving",
+        "hello"
+      ],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "👋"
+    },
+    {
+      "id": "knocking",
+      "text": "knocking",
+      "alt": [
+        "knock",
+        "knocking on a door"
+      ],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🚪"
+    },
+    {
+      "id": "drinking",
+      "text": "drinking",
+      "alt": [
+        "drink",
+        "sipping"
+      ],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🥤"
+    },
+    {
+      "id": "brush-teeth",
+      "text": "brush teeth",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🪥"
+    },
+    {
+      "id": "phone-call",
+      "text": "phone call",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "☎️"
+    },
+    {
+      "id": "typing",
+      "text": "typing",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 2,
+      "emoji": "⌨️"
+    },
+    {
+      "id": "clapping",
+      "text": "clapping",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 2,
+      "emoji": "👏"
+    },
+    {
+      "id": "washing-hands",
+      "text": "washing hands",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🧼"
+    },
+    {
+      "id": "waving-goodbye",
+      "text": "waving goodbye",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 1,
+      "emoji": "👋"
+    },
+    {
+      "id": "opening-a-jar",
+      "text": "opening a jar",
+      "alt": [],
+      "cat": "action",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🫙"
+    },
+    {
+      "id": "tying-a-knot",
+      "text": "tying a knot",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪢"
+    },
+    {
+      "id": "sewing",
+      "text": "sewing",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪡"
+    },
+    {
+      "id": "knitting",
+      "text": "knitting",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧶"
+    },
+    {
+      "id": "juggling",
+      "text": "juggling",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🤹"
+    },
+    {
+      "id": "taking-a-photo",
+      "text": "taking a photo",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "📷"
+    },
+    {
+      "id": "driving",
+      "text": "driving",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚗"
+    },
+    {
+      "id": "reading",
+      "text": "reading",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "📖"
+    },
+    {
+      "id": "painting",
+      "text": "painting",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🖌️"
+    },
+    {
+      "id": "writing",
+      "text": "writing",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 1,
+      "emoji": "✍️"
+    },
+    {
+      "id": "brushing-hair",
+      "text": "brushing hair",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 1,
+      "emoji": "💇"
+    },
+    {
+      "id": "turning-a-key",
+      "text": "turning a key",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🔑"
+    },
+    {
+      "id": "winding-a-clock",
+      "text": "winding a clock",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🕰️"
+    },
+    {
+      "id": "blowing-a-kiss",
+      "text": "blowing a kiss",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 1,
+      "emoji": "😘"
+    },
+    {
+      "id": "shuffling-cards",
+      "text": "shuffling cards",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🃏"
+    },
+    {
+      "id": "folding-paper",
+      "text": "folding paper",
+      "alt": [],
+      "cat": "action",
+      "level": 2,
+      "hands": 2,
+      "emoji": "📄"
+    },
+    {
+      "id": "rock-paper-scissors",
+      "text": "rock paper scissors",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "✊"
+    },
+    {
+      "id": "opening-a-present",
+      "text": "opening a present",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎁"
+    },
+    {
+      "id": "wiping-a-window",
+      "text": "wiping a window",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪟"
+    },
+    {
+      "id": "fishing",
+      "text": "fishing",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎣"
+    },
+    {
+      "id": "hammering",
+      "text": "hammering",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🔨"
+    },
+    {
+      "id": "sawing",
+      "text": "sawing",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪚"
+    },
+    {
+      "id": "watering-plants",
+      "text": "watering plants",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🪴"
+    },
+    {
+      "id": "wrapping-a-gift",
+      "text": "wrapping a gift",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎁"
+    },
+    {
+      "id": "blowing-bubbles",
+      "text": "blowing bubbles",
+      "alt": [],
+      "cat": "action",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🫧"
+    },
+    {
+      "id": "butterfly",
+      "text": "butterfly",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🦋"
+    },
+    {
+      "id": "bird",
+      "text": "bird",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🐦"
+    },
+    {
+      "id": "crab",
+      "text": "crab",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🦀"
+    },
+    {
+      "id": "spider",
+      "text": "spider",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🕷️"
+    },
+    {
+      "id": "rabbit",
+      "text": "rabbit",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🐇"
+    },
+    {
+      "id": "elephant",
+      "text": "elephant",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🐘"
+    },
+    {
+      "id": "snake",
+      "text": "snake",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🐍"
+    },
+    {
+      "id": "crocodile",
+      "text": "crocodile",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🐊"
+    },
+    {
+      "id": "fish",
+      "text": "fish",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🐟"
+    },
+    {
+      "id": "shark",
+      "text": "shark",
+      "alt": [],
+      "cat": "animal",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🦈"
+    },
+    {
+      "id": "octopus",
+      "text": "octopus",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐙"
+    },
+    {
+      "id": "jellyfish",
+      "text": "jellyfish",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪼"
+    },
+    {
+      "id": "snail",
+      "text": "snail",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🐌"
+    },
+    {
+      "id": "caterpillar",
+      "text": "caterpillar",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐛"
+    },
+    {
+      "id": "bee",
+      "text": "bee",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🐝"
+    },
+    {
+      "id": "mosquito",
+      "text": "mosquito",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🦟"
+    },
+    {
+      "id": "frog",
+      "text": "frog",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐸"
+    },
+    {
+      "id": "duck",
+      "text": "duck",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🦆"
+    },
+    {
+      "id": "owl",
+      "text": "owl",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🦉"
+    },
+    {
+      "id": "penguin",
+      "text": "penguin",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐧"
+    },
+    {
+      "id": "monkey",
+      "text": "monkey",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐒"
+    },
+    {
+      "id": "gorilla",
+      "text": "gorilla",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🦍"
+    },
+    {
+      "id": "cat",
+      "text": "cat",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐈"
+    },
+    {
+      "id": "dog",
+      "text": "dog",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐕"
+    },
+    {
+      "id": "horse",
+      "text": "horse",
+      "alt": [],
+      "cat": "animal",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🐎"
+    },
+    {
+      "id": "cow",
+      "text": "cow",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🐄"
+    },
+    {
+      "id": "mouse",
+      "text": "mouse",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🐁"
+    },
+    {
+      "id": "turtle",
+      "text": "turtle",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🐢"
+    },
+    {
+      "id": "lobster",
+      "text": "lobster",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦞"
+    },
+    {
+      "id": "scorpion",
+      "text": "scorpion",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦂"
+    },
+    {
+      "id": "bat",
+      "text": "bat",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦇"
+    },
+    {
+      "id": "chicken",
+      "text": "chicken",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🐔"
+    },
+    {
+      "id": "deer",
+      "text": "deer",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦌"
+    },
+    {
+      "id": "kangaroo",
+      "text": "kangaroo",
+      "alt": [],
+      "cat": "animal",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦘"
+    },
+    {
+      "id": "scissors",
+      "text": "scissors",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 1,
+      "emoji": "✂️"
+    },
+    {
+      "id": "binoculars",
+      "text": "binoculars",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🔭"
+    },
+    {
+      "id": "camera",
+      "text": "camera",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "📷"
+    },
+    {
+      "id": "umbrella",
+      "text": "umbrella",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "☂️"
+    },
+    {
+      "id": "steering-wheel",
+      "text": "steering wheel",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🚗"
+    },
+    {
+      "id": "clock",
+      "text": "clock",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🕰️"
+    },
+    {
+      "id": "book",
+      "text": "book",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "📕"
+    },
+    {
+      "id": "door",
+      "text": "door",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🚪"
+    },
+    {
+      "id": "zipper",
+      "text": "zipper",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🤐"
+    },
+    {
+      "id": "padlock",
+      "text": "padlock",
+      "alt": [],
+      "cat": "object",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🔒"
+    },
+    {
+      "id": "light-bulb",
+      "text": "light bulb",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "💡"
+    },
+    {
+      "id": "flashlight",
+      "text": "flashlight",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🔦"
+    },
+    {
+      "id": "balloon",
+      "text": "balloon",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎈"
+    },
+    {
+      "id": "fan",
+      "text": "fan",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🪭"
+    },
+    {
+      "id": "helicopter",
+      "text": "helicopter",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚁"
+    },
+    {
+      "id": "airplane",
+      "text": "airplane",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 1,
+      "emoji": "✈️"
+    },
+    {
+      "id": "rocket",
+      "text": "rocket",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🚀"
+    },
+    {
+      "id": "train",
+      "text": "train",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚂"
+    },
+    {
+      "id": "boat",
+      "text": "boat",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "⛵"
+    },
+    {
+      "id": "swing",
+      "text": "swing",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🛝"
+    },
+    {
+      "id": "ladder",
+      "text": "ladder",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪜"
+    },
+    {
+      "id": "bridge",
+      "text": "bridge",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌉"
+    },
+    {
+      "id": "stairs",
+      "text": "stairs",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪜"
+    },
+    {
+      "id": "elevator",
+      "text": "elevator",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🛗"
+    },
+    {
+      "id": "robot",
+      "text": "robot",
+      "alt": [],
+      "cat": "object",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🤖"
+    },
+    {
+      "id": "puppet",
+      "text": "puppet",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪆"
+    },
+    {
+      "id": "yo-yo",
+      "text": "yo yo",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪀"
+    },
+    {
+      "id": "spinning-top",
+      "text": "spinning top",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🌀"
+    },
+    {
+      "id": "spring",
+      "text": "spring",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "➰"
+    },
+    {
+      "id": "magnet",
+      "text": "magnet",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🧲"
+    },
+    {
+      "id": "syringe",
+      "text": "syringe",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "💉"
+    },
+    {
+      "id": "screwdriver",
+      "text": "screwdriver",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🪛"
+    },
+    {
+      "id": "corkscrew",
+      "text": "corkscrew",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🍾"
+    },
+    {
+      "id": "remote-control",
+      "text": "remote control",
+      "alt": [],
+      "cat": "object",
+      "level": 3,
+      "hands": 1,
+      "emoji": "📺"
+    },
+    {
+      "id": "rain",
+      "text": "rain",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🌧️"
+    },
+    {
+      "id": "snow",
+      "text": "snow",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 1,
+      "emoji": "❄️"
+    },
+    {
+      "id": "wind",
+      "text": "wind",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🌬️"
+    },
+    {
+      "id": "river",
+      "text": "river",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏞️"
+    },
+    {
+      "id": "ocean-waves",
+      "text": "ocean waves",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🌊"
+    },
+    {
+      "id": "waterfall",
+      "text": "waterfall",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🌊"
+    },
+    {
+      "id": "volcano",
+      "text": "volcano",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🌋"
+    },
+    {
+      "id": "earthquake",
+      "text": "earthquake",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🫨"
+    },
+    {
+      "id": "tornado",
+      "text": "tornado",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🌪️"
+    },
+    {
+      "id": "lightning",
+      "text": "lightning",
+      "alt": [],
+      "cat": "nature",
+      "level": 1,
+      "hands": 2,
+      "emoji": "⚡"
+    },
+    {
+      "id": "thunder",
+      "text": "thunder",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "⛈️"
+    },
+    {
+      "id": "sunrise",
+      "text": "sunrise",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌅"
+    },
+    {
+      "id": "sunset",
+      "text": "sunset",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌇"
+    },
+    {
+      "id": "rainbow",
+      "text": "rainbow",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌈"
+    },
+    {
+      "id": "shooting-star",
+      "text": "shooting star",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌠"
+    },
+    {
+      "id": "full-moon",
+      "text": "full moon",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌕"
+    },
+    {
+      "id": "eclipse",
+      "text": "eclipse",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌑"
+    },
+    {
+      "id": "flower-opening",
+      "text": "flower opening",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌸"
+    },
+    {
+      "id": "growing-tree",
+      "text": "growing tree",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌳"
+    },
+    {
+      "id": "falling-leaf",
+      "text": "falling leaf",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🍂"
+    },
+    {
+      "id": "grass-growing",
+      "text": "grass growing",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌱"
+    },
+    {
+      "id": "seed-sprouting",
+      "text": "seed sprouting",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌱"
+    },
+    {
+      "id": "fire",
+      "text": "fire",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🔥"
+    },
+    {
+      "id": "smoke",
+      "text": "smoke",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 1,
+      "emoji": "💨"
+    },
+    {
+      "id": "cloud",
+      "text": "cloud",
+      "alt": [],
+      "cat": "nature",
+      "level": 2,
+      "hands": 1,
+      "emoji": "☁️"
+    },
+    {
+      "id": "mountain",
+      "text": "mountain",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "⛰️"
+    },
+    {
+      "id": "cave",
+      "text": "cave",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🕳️"
+    },
+    {
+      "id": "desert",
+      "text": "desert",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🏜️"
+    },
+    {
+      "id": "sandstorm",
+      "text": "sandstorm",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🏜️"
+    },
+    {
+      "id": "whirlpool",
+      "text": "whirlpool",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🌀"
+    },
+    {
+      "id": "geyser",
+      "text": "geyser",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "♨️"
+    },
+    {
+      "id": "avalanche",
+      "text": "avalanche",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🏔️"
+    },
+    {
+      "id": "icicle",
+      "text": "icicle",
+      "alt": [],
+      "cat": "nature",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🧊"
+    },
+    {
+      "id": "piano",
+      "text": "piano",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎹"
+    },
+    {
+      "id": "guitar",
+      "text": "guitar",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎸"
+    },
+    {
+      "id": "violin",
+      "text": "violin",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎻"
+    },
+    {
+      "id": "drums",
+      "text": "drums",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥁"
+    },
+    {
+      "id": "trumpet",
+      "text": "trumpet",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎺"
+    },
+    {
+      "id": "flute",
+      "text": "flute",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🪈"
+    },
+    {
+      "id": "harp",
+      "text": "harp",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🪉"
+    },
+    {
+      "id": "accordion",
+      "text": "accordion",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🪗"
+    },
+    {
+      "id": "saxophone",
+      "text": "saxophone",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎷"
+    },
+    {
+      "id": "trombone",
+      "text": "trombone",
+      "alt": [],
+      "cat": "music",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎺"
+    },
+    {
+      "id": "cello",
+      "text": "cello",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎻"
+    },
+    {
+      "id": "double-bass",
+      "text": "double bass",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎻"
+    },
+    {
+      "id": "ukulele",
+      "text": "ukulele",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎸"
+    },
+    {
+      "id": "banjo",
+      "text": "banjo",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪕"
+    },
+    {
+      "id": "tambourine",
+      "text": "tambourine",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🥁"
+    },
+    {
+      "id": "maracas",
+      "text": "maracas",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🪇"
+    },
+    {
+      "id": "triangle",
+      "text": "triangle",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🔺"
+    },
+    {
+      "id": "xylophone",
+      "text": "xylophone",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎹"
+    },
+    {
+      "id": "cymbals",
+      "text": "cymbals",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥁"
+    },
+    {
+      "id": "conductor",
+      "text": "conductor",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪄"
+    },
+    {
+      "id": "dj",
+      "text": "DJ",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎧"
+    },
+    {
+      "id": "singing",
+      "text": "singing",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎤"
+    },
+    {
+      "id": "beatboxing",
+      "text": "beatboxing",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎤"
+    },
+    {
+      "id": "opera",
+      "text": "opera",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎭"
+    },
+    {
+      "id": "air-guitar",
+      "text": "air guitar",
+      "alt": [],
+      "cat": "music",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎸"
+    },
+    {
+      "id": "finger-snapping",
+      "text": "finger snapping",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🫰"
+    },
+    {
+      "id": "hand-drum",
+      "text": "hand drum",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪘"
+    },
+    {
+      "id": "bell-ringing",
+      "text": "bell ringing",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🔔"
+    },
+    {
+      "id": "harmonica",
+      "text": "harmonica",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎵"
+    },
+    {
+      "id": "bagpipes",
+      "text": "bagpipes",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎶"
+    },
+    {
+      "id": "record-scratching",
+      "text": "record scratching",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "💿"
+    },
+    {
+      "id": "music-box",
+      "text": "music box",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎼"
+    },
+    {
+      "id": "tuning-a-guitar",
+      "text": "tuning a guitar",
+      "alt": [],
+      "cat": "music",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎸"
+    },
+    {
+      "id": "swimming",
+      "text": "swimming",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏊"
+    },
+    {
+      "id": "rowing",
+      "text": "rowing",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🚣"
+    },
+    {
+      "id": "boxing",
+      "text": "boxing",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥊"
+    },
+    {
+      "id": "archery",
+      "text": "archery",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏹"
+    },
+    {
+      "id": "basketball",
+      "text": "basketball",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏀"
+    },
+    {
+      "id": "volleyball",
+      "text": "volleyball",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏐"
+    },
+    {
+      "id": "tennis",
+      "text": "tennis",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎾"
+    },
+    {
+      "id": "table-tennis",
+      "text": "table tennis",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏓"
+    },
+    {
+      "id": "badminton",
+      "text": "badminton",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🏸"
+    },
+    {
+      "id": "bowling",
+      "text": "bowling",
+      "alt": [],
+      "cat": "sport",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🎳"
+    },
+    {
+      "id": "golf",
+      "text": "golf",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "⛳"
+    },
+    {
+      "id": "baseball",
+      "text": "baseball",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "⚾"
+    },
+    {
+      "id": "cricket",
+      "text": "cricket",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🏏"
+    },
+    {
+      "id": "hockey",
+      "text": "hockey",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🏒"
+    },
+    {
+      "id": "fencing",
+      "text": "fencing",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🤺"
+    },
+    {
+      "id": "weightlifting",
+      "text": "weightlifting",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🏋️"
+    },
+    {
+      "id": "cycling",
+      "text": "cycling",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚴"
+    },
+    {
+      "id": "skiing",
+      "text": "skiing",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "⛷️"
+    },
+    {
+      "id": "surfing",
+      "text": "surfing",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🏄"
+    },
+    {
+      "id": "skateboarding",
+      "text": "skateboarding",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🛹"
+    },
+    {
+      "id": "rock-climbing",
+      "text": "rock climbing",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧗"
+    },
+    {
+      "id": "jump-rope",
+      "text": "jump rope",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🪢"
+    },
+    {
+      "id": "darts",
+      "text": "darts",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🎯"
+    },
+    {
+      "id": "billiards",
+      "text": "billiards",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎱"
+    },
+    {
+      "id": "frisbee",
+      "text": "frisbee",
+      "alt": [],
+      "cat": "sport",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥏"
+    },
+    {
+      "id": "judo",
+      "text": "judo",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🥋"
+    },
+    {
+      "id": "wrestling",
+      "text": "wrestling",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🤼"
+    },
+    {
+      "id": "sailing",
+      "text": "sailing",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "⛵"
+    },
+    {
+      "id": "kayaking",
+      "text": "kayaking",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🛶"
+    },
+    {
+      "id": "cheerleading",
+      "text": "cheerleading",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "📣"
+    },
+    {
+      "id": "arm-wrestling",
+      "text": "arm wrestling",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "💪"
+    },
+    {
+      "id": "goalkeeper",
+      "text": "goalkeeper",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🥅"
+    },
+    {
+      "id": "referee",
+      "text": "referee",
+      "alt": [],
+      "cat": "sport",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🟨"
+    },
+    {
+      "id": "eating-noodles",
+      "text": "eating noodles",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🍜"
+    },
+    {
+      "id": "eating-spaghetti",
+      "text": "eating spaghetti",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🍝"
+    },
+    {
+      "id": "eating-sushi",
+      "text": "eating sushi",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🍣"
+    },
+    {
+      "id": "eating-ice-cream",
+      "text": "eating ice cream",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🍦"
+    },
+    {
+      "id": "peeling-banana",
+      "text": "peeling banana",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🍌"
+    },
+    {
+      "id": "slicing-bread",
+      "text": "slicing bread",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🍞"
+    },
+    {
+      "id": "kneading-dough",
+      "text": "kneading dough",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥖"
+    },
+    {
+      "id": "rolling-dough",
+      "text": "rolling dough",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥐"
+    },
+    {
+      "id": "flipping-pancake",
+      "text": "flipping pancake",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥞"
+    },
+    {
+      "id": "cracking-an-egg",
+      "text": "cracking an egg",
+      "alt": [],
+      "cat": "food",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🥚"
+    },
+    {
+      "id": "whisking-eggs",
+      "text": "whisking eggs",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥣"
+    },
+    {
+      "id": "stirring-soup",
+      "text": "stirring soup",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🍲"
+    },
+    {
+      "id": "pouring-tea",
+      "text": "pouring tea",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🫖"
+    },
+    {
+      "id": "grinding-coffee",
+      "text": "grinding coffee",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "☕"
+    },
+    {
+      "id": "squeezing-lemon",
+      "text": "squeezing lemon",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🍋"
+    },
+    {
+      "id": "grating-cheese",
+      "text": "grating cheese",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧀"
+    },
+    {
+      "id": "chopping-onions",
+      "text": "chopping onions",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧅"
+    },
+    {
+      "id": "sprinkling-salt",
+      "text": "sprinkling salt",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🧂"
+    },
+    {
+      "id": "spreading-butter",
+      "text": "spreading butter",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧈"
+    },
+    {
+      "id": "opening-a-can",
+      "text": "opening a can",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥫"
+    },
+    {
+      "id": "eating-corn",
+      "text": "eating corn",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌽"
+    },
+    {
+      "id": "eating-watermelon",
+      "text": "eating watermelon",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🍉"
+    },
+    {
+      "id": "eating-an-apple",
+      "text": "eating an apple",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🍎"
+    },
+    {
+      "id": "eating-popcorn",
+      "text": "eating popcorn",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 1,
+      "emoji": "🍿"
+    },
+    {
+      "id": "eating-a-burger",
+      "text": "eating a burger",
+      "alt": [],
+      "cat": "food",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🍔"
+    },
+    {
+      "id": "eating-a-taco",
+      "text": "eating a taco",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🌮"
+    },
+    {
+      "id": "eating-pizza",
+      "text": "eating pizza",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🍕"
+    },
+    {
+      "id": "rolling-sushi",
+      "text": "rolling sushi",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🍣"
+    },
+    {
+      "id": "decorating-cake",
+      "text": "decorating cake",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎂"
+    },
+    {
+      "id": "icing-a-cupcake",
+      "text": "icing a cupcake",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🧁"
+    },
+    {
+      "id": "blowing-hot-soup",
+      "text": "blowing hot soup",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🥣"
+    },
+    {
+      "id": "tossing-salad",
+      "text": "tossing salad",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🥗"
+    },
+    {
+      "id": "pulling-noodles",
+      "text": "pulling noodles",
+      "alt": [],
+      "cat": "food",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🍜"
+    },
+    {
+      "id": "surgeon",
+      "text": "surgeon",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🩺"
+    },
+    {
+      "id": "dentist",
+      "text": "dentist",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🦷"
+    },
+    {
+      "id": "chef",
+      "text": "chef",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "👨‍🍳"
+    },
+    {
+      "id": "barber",
+      "text": "barber",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "💈"
+    },
+    {
+      "id": "photographer",
+      "text": "photographer",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "📸"
+    },
+    {
+      "id": "painter",
+      "text": "painter",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🎨"
+    },
+    {
+      "id": "carpenter",
+      "text": "carpenter",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🪚"
+    },
+    {
+      "id": "plumber",
+      "text": "plumber",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🪠"
+    },
+    {
+      "id": "electrician",
+      "text": "electrician",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🔌"
+    },
+    {
+      "id": "gardener",
+      "text": "gardener",
+      "alt": [],
+      "cat": "job",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🧑‍🌾"
+    },
+    {
+      "id": "farmer",
+      "text": "farmer",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🌾"
+    },
+    {
+      "id": "potter",
+      "text": "potter",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🏺"
+    },
+    {
+      "id": "tailor",
+      "text": "tailor",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧵"
+    },
+    {
+      "id": "mechanic",
+      "text": "mechanic",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🔧"
+    },
+    {
+      "id": "pilot",
+      "text": "pilot",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧑‍✈️"
+    },
+    {
+      "id": "bus-driver",
+      "text": "bus driver",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚌"
+    },
+    {
+      "id": "librarian",
+      "text": "librarian",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "📚"
+    },
+    {
+      "id": "teacher",
+      "text": "teacher",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "id": "scientist",
+      "text": "scientist",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧑‍🔬"
+    },
+    {
+      "id": "astronaut",
+      "text": "astronaut",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧑‍🚀"
+    },
+    {
+      "id": "firefighter",
+      "text": "firefighter",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🧑‍🚒"
+    },
+    {
+      "id": "police-officer",
+      "text": "police officer",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "👮"
+    },
+    {
+      "id": "traffic-director",
+      "text": "traffic director",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🚦"
+    },
+    {
+      "id": "cashier",
+      "text": "cashier",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "💳"
+    },
+    {
+      "id": "waiter",
+      "text": "waiter",
+      "alt": [],
+      "cat": "job",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🍽️"
+    },
+    {
+      "id": "baker",
+      "text": "baker",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🥖"
+    },
+    {
+      "id": "jeweller",
+      "text": "jeweller",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "💍"
+    },
+    {
+      "id": "locksmith",
+      "text": "locksmith",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🔐"
+    },
+    {
+      "id": "magician",
+      "text": "magician",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🎩"
+    },
+    {
+      "id": "puppeteer",
+      "text": "puppeteer",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪆"
+    },
+    {
+      "id": "archaeologist",
+      "text": "archaeologist",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🦴"
+    },
+    {
+      "id": "window-cleaner",
+      "text": "window cleaner",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🪟"
+    },
+    {
+      "id": "florist",
+      "text": "florist",
+      "alt": [],
+      "cat": "job",
+      "level": 3,
+      "hands": 2,
+      "emoji": "💐"
+    },
+    {
+      "id": "surprised",
+      "text": "surprised",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "😮"
+    },
+    {
+      "id": "scared",
+      "text": "scared",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "😨"
+    },
+    {
+      "id": "angry",
+      "text": "angry",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "😡"
+    },
+    {
+      "id": "excited",
+      "text": "excited",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 2,
+      "emoji": "🤩"
+    },
+    {
+      "id": "sleepy",
+      "text": "sleepy",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "😴"
+    },
+    {
+      "id": "bored",
+      "text": "bored",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🥱"
+    },
+    {
+      "id": "confused",
+      "text": "confused",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "😕"
+    },
+    {
+      "id": "curious",
+      "text": "curious",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🤔"
+    },
+    {
+      "id": "proud",
+      "text": "proud",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 2,
+      "emoji": "😌"
+    },
+    {
+      "id": "shy",
+      "text": "shy",
+      "alt": [],
+      "cat": "feeling",
+      "level": 1,
+      "hands": 1,
+      "emoji": "🫣"
+    },
+    {
+      "id": "embarrassed",
+      "text": "embarrassed",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "😳"
+    },
+    {
+      "id": "grateful",
+      "text": "grateful",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🙏"
+    },
+    {
+      "id": "hopeful",
+      "text": "hopeful",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🤞"
+    },
+    {
+      "id": "impatient",
+      "text": "impatient",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 1,
+      "emoji": "⌚"
+    },
+    {
+      "id": "nervous",
+      "text": "nervous",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 1,
+      "emoji": "😬"
+    },
+    {
+      "id": "relieved",
+      "text": "relieved",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 1,
+      "emoji": "😮‍💨"
+    },
+    {
+      "id": "disappointed",
+      "text": "disappointed",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 1,
+      "emoji": "😞"
+    },
+    {
+      "id": "heartbroken",
+      "text": "heartbroken",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "💔"
+    },
+    {
+      "id": "in-love",
+      "text": "in love",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "❤️"
+    },
+    {
+      "id": "celebrating",
+      "text": "celebrating",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🎉"
+    },
+    {
+      "id": "cheering",
+      "text": "cheering",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🙌"
+    },
+    {
+      "id": "crying",
+      "text": "crying",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "😢"
+    },
+    {
+      "id": "laughing",
+      "text": "laughing",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 1,
+      "emoji": "😂"
+    },
+    {
+      "id": "cold",
+      "text": "cold",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥶"
+    },
+    {
+      "id": "hot",
+      "text": "hot",
+      "alt": [],
+      "cat": "feeling",
+      "level": 2,
+      "hands": 2,
+      "emoji": "🥵"
+    },
+    {
+      "id": "hungry",
+      "text": "hungry",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🍽️"
+    },
+    {
+      "id": "thirsty",
+      "text": "thirsty",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🥤"
+    },
+    {
+      "id": "dizzy",
+      "text": "dizzy",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 2,
+      "emoji": "😵‍💫"
+    },
+    {
+      "id": "suspicious",
+      "text": "suspicious",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🤨"
+    },
+    {
+      "id": "thinking",
+      "text": "thinking",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 1,
+      "emoji": "🤔"
+    },
+    {
+      "id": "remembering",
+      "text": "remembering",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 1,
+      "emoji": "💭"
+    },
+    {
+      "id": "asking-for-help",
+      "text": "asking for help",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🆘"
+    },
+    {
+      "id": "saying-sorry",
+      "text": "saying sorry",
+      "alt": [],
+      "cat": "feeling",
+      "level": 3,
+      "hands": 2,
+      "emoji": "🙇"
+    }
+  ],
+  "daily": [
+    "wave",
+    "knocking",
+    "drinking",
+    "brush-teeth",
+    "phone-call",
+    "typing",
+    "clapping",
+    "washing-hands",
+    "waving-goodbye",
+    "opening-a-jar",
+    "tying-a-knot",
+    "sewing",
+    "knitting",
+    "juggling",
+    "taking-a-photo",
+    "driving",
+    "reading",
+    "painting",
+    "writing",
+    "brushing-hair",
+    "turning-a-key",
+    "winding-a-clock",
+    "blowing-a-kiss",
+    "shuffling-cards",
+    "folding-paper",
+    "butterfly",
+    "bird",
+    "crab",
+    "spider",
+    "rabbit",
+    "elephant",
+    "snake",
+    "crocodile",
+    "fish",
+    "shark",
+    "octopus",
+    "jellyfish",
+    "snail",
+    "caterpillar",
+    "bee",
+    "mosquito",
+    "frog",
+    "duck",
+    "owl",
+    "penguin",
+    "monkey",
+    "gorilla",
+    "cat",
+    "dog",
+    "horse",
+    "scissors",
+    "binoculars",
+    "camera",
+    "umbrella",
+    "steering-wheel",
+    "clock",
+    "book",
+    "door",
+    "zipper",
+    "padlock",
+    "light-bulb",
+    "flashlight",
+    "balloon",
+    "fan",
+    "helicopter",
+    "airplane",
+    "rocket",
+    "train",
+    "boat",
+    "swing",
+    "ladder",
+    "bridge",
+    "stairs",
+    "elevator",
+    "robot",
+    "rain",
+    "snow",
+    "wind",
+    "river",
+    "ocean-waves",
+    "waterfall",
+    "volcano",
+    "earthquake",
+    "tornado",
+    "lightning",
+    "thunder",
+    "sunrise",
+    "sunset",
+    "rainbow",
+    "shooting-star",
+    "full-moon",
+    "eclipse",
+    "flower-opening",
+    "growing-tree",
+    "falling-leaf",
+    "grass-growing",
+    "seed-sprouting",
+    "fire",
+    "smoke",
+    "cloud",
+    "piano",
+    "guitar",
+    "violin",
+    "drums",
+    "trumpet",
+    "flute",
+    "harp",
+    "accordion",
+    "saxophone",
+    "trombone",
+    "cello",
+    "double-bass",
+    "ukulele",
+    "banjo",
+    "tambourine",
+    "maracas",
+    "triangle",
+    "xylophone",
+    "cymbals",
+    "conductor",
+    "dj",
+    "singing",
+    "beatboxing",
+    "opera",
+    "air-guitar",
+    "swimming",
+    "rowing",
+    "boxing",
+    "archery",
+    "basketball",
+    "volleyball",
+    "tennis",
+    "table-tennis",
+    "badminton",
+    "bowling",
+    "golf",
+    "baseball",
+    "cricket",
+    "hockey",
+    "fencing",
+    "weightlifting",
+    "cycling",
+    "skiing",
+    "surfing",
+    "skateboarding",
+    "rock-climbing",
+    "jump-rope",
+    "darts",
+    "billiards",
+    "frisbee",
+    "eating-noodles",
+    "eating-spaghetti",
+    "eating-sushi",
+    "eating-ice-cream",
+    "peeling-banana",
+    "slicing-bread",
+    "kneading-dough",
+    "rolling-dough",
+    "flipping-pancake",
+    "cracking-an-egg",
+    "whisking-eggs",
+    "stirring-soup",
+    "pouring-tea",
+    "grinding-coffee",
+    "squeezing-lemon",
+    "grating-cheese",
+    "chopping-onions",
+    "sprinkling-salt",
+    "spreading-butter",
+    "opening-a-can",
+    "eating-corn",
+    "eating-watermelon",
+    "eating-an-apple",
+    "eating-popcorn",
+    "eating-a-burger",
+    "surgeon",
+    "dentist",
+    "chef",
+    "barber",
+    "photographer",
+    "painter",
+    "carpenter",
+    "plumber",
+    "electrician",
+    "gardener",
+    "farmer",
+    "potter",
+    "tailor",
+    "mechanic",
+    "pilot",
+    "bus-driver",
+    "librarian",
+    "teacher",
+    "scientist",
+    "astronaut",
+    "firefighter",
+    "police-officer",
+    "traffic-director",
+    "cashier",
+    "waiter",
+    "surprised",
+    "scared",
+    "angry",
+    "excited",
+    "sleepy",
+    "bored",
+    "confused",
+    "curious",
+    "proud",
+    "shy",
+    "embarrassed",
+    "grateful",
+    "hopeful",
+    "impatient",
+    "nervous",
+    "relieved",
+    "disappointed",
+    "heartbroken",
+    "in-love",
+    "celebrating",
+    "cheering",
+    "crying",
+    "laughing",
+    "cold",
+    "hot"
+  ]
+}

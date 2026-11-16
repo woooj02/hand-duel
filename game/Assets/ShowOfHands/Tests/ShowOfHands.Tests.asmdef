@@ -1,0 +1,12 @@
+{
+  "name": "ShowOfHands.Tests",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "references": [
+    "ShowOfHands.Runtime"
+  ]
+}

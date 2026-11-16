@@ -1,0 +1,13 @@
+# Third-party notices
+
+## Noto Emoji via @fontsource/noto-emoji 5.0.21 — SIL OFL 1.1
+Copyright Google. Glyphs are rendered into the supplied icons; font software is not included in the APK. Full licence: licences/NotoEmoji-OFL.txt.
+
+## Original content
+The 300-word pack, generated audio cues, clip codec, application code and parametric practice clips were authored for this project. No music recordings, external character models or AI-generated video are used.
+
+## Required engine and platform dependencies
+Unity 6000.0.66f2, Unity XR packages, Meta XR SDK 207 and their bundled dependencies are governed by their respective engine/platform licences. They are required project dependencies, not MIT-licensed project assets. Review the packages' Third Party Notices before distribution. No proprietary external art assets were added.
+
+## Web preview and demo
+The static preview uses native HTML and CSS. The included demo uses actual owner-recorded Quest gameplay and the owner's narration. No synthetic narrator or generated gameplay is included.

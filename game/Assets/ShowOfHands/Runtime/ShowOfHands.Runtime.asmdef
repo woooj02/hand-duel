@@ -1,0 +1,12 @@
+{
+  "references": [
+    "Unity.XR.Hands",
+    "Oculus.VR",
+    "Oculus.Interaction",
+    "Oculus.Interaction.OVR",
+    "Unity.XR.Management",
+    "Unity.XR.OpenXR",
+    "Unity.InputSystem"
+  ],
+  "name": "ShowOfHands.Runtime"
+}

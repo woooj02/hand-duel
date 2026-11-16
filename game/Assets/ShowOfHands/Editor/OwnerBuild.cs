@@ -1,0 +1,1 @@
+namespace ShowOfHands.EditorTools { public static class OwnerBuild { public static void BuildApk() { ProjectSetup.BuildApk(); } } }
